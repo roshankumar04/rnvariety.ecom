@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    width: 100px;
+    height: 45px;
+}
+#p1{
+    color: black;
+    border-top-style: dashed;
+    border: 10px;
+    border-top: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+div{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+img{
+    background-color: white;
+}

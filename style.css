@@ -1,0 +1,110 @@
+
+    body, ul {  
+    margin: 0;
+    padding: 0;
+    }
+
+        nav {
+    background-color: #333; 
+    color: #fff; 
+    position: fixed; 
+    width: 100%; 
+    }
+
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    }
+
+    nav li {
+    display: inline;
+    margin: 0 15px;
+    }
+
+    nav a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    nav a:hover {
+    text-decoration: underline;
+    }
+    #h11{
+    text-align: center;
+    color: gray;
+    }   
+
+    footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+ 
+
+
+  /* Styles for the "Show Information" button */
+  #showInfoButton {
+    display: block;
+    margin: 10px auto;
+    margin-left: 190px;
+    margin-top: 80px;
+    padding: 10px;
+    color: white;
+    background-color:gray;
+  }
+
+  .footer{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  /* Add your styles for the developer information as needed */
+  #ku{
+    margin-left: 160px;
+  }
+  #ro{
+    margin-left: 160px;
+  }
+  #sh{
+    margin-left: 160px;
+  }
+  #an{
+    margin-left: 160px;
+  }
+
+  #showInfostore {
+    position: fixed;
+    display: block;
+    margin: 10px auto;
+    margin-left: 780px;
+    margin-bottom: 1000px;
+    padding: 10px;
+    color: white;
+    background-color:gray;
+  }
+
+  #storeInfo{
+    margin-left: 600px;
+  }
+  #ra{
+    margin-right: 600px;
+  }
+  #na{
+    margin-left: 600px;
+  }
+  #ray{
+    margin-left: 600px;
+  }
+  #aan{
+    margin-left: 600px;
+  }
+  
